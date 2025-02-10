@@ -56,10 +56,11 @@ The interactive Tableau dashboard allows users to explore and derive insights ea
 - **Lowest Revenue & Sales**: Brie Carre Pizza ranks lowest in revenue, quantity sold, and total orders.
 
 ### Outcome
-This project provides actionable insights to optimize:
--- ✅ **Product offerings** by identifying best-selling and underperforming pizzas.
--- ✅ **Marketing strategies** by leveraging peak sales periods.
--- ✅ **Inventory management** by predicting demand for different pizza categories and sizes.
+This project provides actionable insights to optimize:  
+
+✅ **Product offerings** by identifying best-selling and underperforming pizzas.  
+✅ **Marketing strategies** by leveraging peak sales periods.  
+✅ **Inventory management** by predicting demand for different pizza categories and sizes.  
 
 ---
 
