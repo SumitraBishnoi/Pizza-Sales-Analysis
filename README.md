@@ -3,7 +3,8 @@
 This project analyzes pizza sales data using SQL for data processing and Tableau for visualization. It explores key performance indicators (KPIs), sales trends by hour and week, sales distribution by pizza category and size, and identifies top and bottom-performing pizzas.
 
 ---
-
+![Spotify Logo](https://github.com/SumitraBishnoi/Pizza-Sales-Analysis/blob/main/Pizza.png)
+---
 ## Project Overview
 
 The goal is to extract valuable insights from pizza sales transactions, applying SQL for data transformation and leveraging Tableau to create an interactive dashboard. The analysis highlights critical KPIs and sales trends to support data-driven decision-making.
